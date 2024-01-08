@@ -1,8 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body{
+    height: 100vh;
+    width: 100vw;
+    box-sizing: border-box;
     background-color: #000000;
     color: #f6f6f6;
 }
 
-strong{
+.titulo__destaque{
     color: #22d4fd;
 }
